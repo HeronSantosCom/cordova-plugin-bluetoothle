@@ -1,3 +1,6 @@
+## 6.7.6 - 2024-01-23
+- Fix the request for using Bluetooth on iOS.
+
 ## 6.7.5 - 2024-01-23
 - Added request for using Bluetooth on iOS.
 
