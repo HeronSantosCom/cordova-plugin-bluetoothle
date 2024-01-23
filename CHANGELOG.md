@@ -1,3 +1,7 @@
+## 6.7.5 - 2024-01-23
+- Added request for using Bluetooth on iOS.
+
+- Fix advertise permissions for Android 12
 ## 6.7.4 - 2023-04-07
 - Fix advertise permissions for Android 12
 
